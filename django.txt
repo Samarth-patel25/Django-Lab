@@ -1,0 +1,2 @@
+python -m django startproject lab1
+Python manage.py startapp firstapp

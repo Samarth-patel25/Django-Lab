@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -am ""
+git remote add origin https://github.com/Samarth-patel25/Django-Lab.git
+git push origin master
+
+
+
+
+https://docs.chaicode.com/youtube/getting-started/ 
